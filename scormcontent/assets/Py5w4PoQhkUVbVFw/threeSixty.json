@@ -1,0 +1,27 @@
+{
+  "version": "3.53.25436.0",
+  "course_id": "612ftmE9qYH_course_id",
+  "title": "Выполни задание",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6dRzoJh5BoL",
+      "title": "Drag and Drop",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 520,
+    "height": 943
+  },
+  "stage": {
+    "width": 500,
+    "height": 900
+  }
+}

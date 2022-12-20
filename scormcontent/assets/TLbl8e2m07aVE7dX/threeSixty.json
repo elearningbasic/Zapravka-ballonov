@@ -1,0 +1,52 @@
+{
+  "version": "3.53.25436.0",
+  "course_id": "5jIVJxCj3q7_course_id",
+  "title": "Ответь на вопросы",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6IbdTg7Xjav",
+      "title": "Pick Many",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6mwm2h2M834",
+      "title": "Pick Many",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5clRUDKVitA",
+      "title": "Pick Many",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6qdS9HbamGh",
+      "title": "Pick Many",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6AjDWGRguah",
+      "title": "Pick Many",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "64LPs0L9nQU",
+      "title": "Untitled Slide",
+      "scene_index": "1.6"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 520,
+    "height": 943
+  },
+  "stage": {
+    "width": 500,
+    "height": 900
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "version": "3.53.25436.0",
+  "course_id": "6WRRBPV7Ej9_course_id",
+  "title": "Ответь на вопросы",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5YqwlGI2Mvr",
+      "title": "Drag and Drop",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 520,
+    "height": 994
+  },
+  "stage": {
+    "width": 500,
+    "height": 900
+  }
+}

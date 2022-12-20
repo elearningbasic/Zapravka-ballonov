@@ -1,0 +1,52 @@
+{
+  "version": "3.53.25436.0",
+  "course_id": "62e2kfqw9Bx_course_id",
+  "title": "Ответь на вопросы",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5iY8BDwdVHd",
+      "title": "Pick Many",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6LcEON248Tr",
+      "title": "Drag and Drop",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6IbdTg7Xjav",
+      "title": "Pick Many",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6ovRbMxnV0c",
+      "title": "Pick Many",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6i3onlu80uQ",
+      "title": "Соотнеси буквы (обозначения на баллоне) с соответствующей расшифровкой.",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6GyvnVjcuHs",
+      "title": "Results Slide",
+      "scene_index": "1.6"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 520,
+    "height": 943
+  },
+  "stage": {
+    "width": 500,
+    "height": 900
+  }
+}
